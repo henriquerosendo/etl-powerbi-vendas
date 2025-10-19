@@ -4,7 +4,6 @@ import os
 import shutil
 import glob
 
-
 #limpar a tela 
 os.system("cls")
 
